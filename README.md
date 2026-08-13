@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:020617,50:0f172a,100:111827&text=ABHIJIT%20DAS&fontColor=E5F9FF&fontSize=48&fontAlignY=42&desc=AI%2FML%20%7C%20DATA%20SCIENCE%20%7C%20GENAI%20%7C%20DEEP%20LEARNING&descColor=22D3EE&descSize=16&descAlignY=68" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:020617,50:0f172a,100:111827&text=ABHIJIT%20DAS&fontColor=E5F9FF&fontSize=48&fontAlignY=42&desc=AI%2FML%20%7C%20DATA%20SCIENCE%20%7C%20GENAI%20%7C%20ANALYTICS&descColor=22D3EE&descSize=16&descAlignY=68" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=700&color=22D3EE&center=true&vCenter=true&width=900&lines=%3E+Building+ML+systems+from+raw+data+to+usable+dashboards;%3E+Exploring+RAG%2C+LangChain+and+financial+AI+assistants;%3E+Working+with+transformer+models+for+cancer+genomics;%3E+Python+%7C+Scikit-learn+%7C+XGBoost+%7C+PyTorch+%7C+LangChain)](https://git.io/typing-svg)
 
@@ -21,7 +21,7 @@ user@iit-delhi:~$ current_stack
 Python | SQL | C++ | Scikit-learn | XGBoost | PyTorch | LangChain | RAG | Streamlit | Docker
 
 user@iit-delhi:~$ focus
-Applied ML, data analytics, GenAI assistants, credit risk, customer churn and cancer genomics
+Applied ML, data analytics, GenAI assistants, credit risk, customer churn and intelligent systems
 ```
 
 ---
@@ -30,8 +30,8 @@ Applied ML, data analytics, GenAI assistants, credit risk, customer churn and ca
 
 I am an **IIT Delhi undergraduate** building projects across **machine learning, data science, deep learning and GenAI**. I like taking a problem from raw data to a working output: cleaning the data, choosing a model, evaluating it properly, and turning the result into a dashboard, assistant or decision-support tool.
 
-- Working on **cancer genomics** using transformer-based models such as **Geneformer**, **STformer** and perturbation pipelines.
-- Building finance and analytics projects around **credit risk scoring**, **customer churn**, **RAG assistants** and explainable dashboards.
+- Building applied AI/ML projects around **credit risk scoring**, **customer churn**, **RAG assistants** and explainable dashboards.
+- Exploring deep learning and transformer-based workflows through domain projects, including healthcare and financial analytics.
 - Interested in practical systems where models do more than predict: they explain, rank, recommend and support decisions.
 
 ---
@@ -60,8 +60,8 @@ I am an **IIT Delhi undergraduate** building projects across **machine learning,
     <td>GitHub, Kaggle, Jupyter, Docker, Microsoft Azure, Lightning AI, VS Code</td>
   </tr>
   <tr>
-    <td><b>Bioinformatics</b></td>
-    <td>Scanpy, AnnData, scRNA-seq, spatial transcriptomics, CellOracle, COMMOT</td>
+    <td><b>Domain Tools</b></td>
+    <td>Scanpy, AnnData, financial analytics, dashboarding, document AI workflows</td>
   </tr>
 </table>
 
@@ -77,7 +77,7 @@ I am an **IIT Delhi undergraduate** building projects across **machine learning,
   <tr>
     <td width="50%">
       <h3>HCC In Silico Perturbation</h3>
-      <p>Transformer-based cancer genomics workflow for ranking gene KO/OE perturbations across HCC cell types using Geneformer V2 and CellOracle.</p>
+      <p>Applied deep-learning project using transformer embeddings and perturbation workflows to rank gene KO/OE effects in HCC data.</p>
       <p><code>Geneformer</code> <code>CellOracle</code> <code>Docker</code> <code>PyTorch</code> <code>AnnData</code></p>
       <a href="https://github.com/alligatord788-dot/hcc-insilico-perturbation_ABHIJIT">open repo -></a>
     </td>
@@ -115,7 +115,7 @@ raw_data -> cleaning -> feature_engineering -> model_training -> evaluation -> e
 ```txt
 Machine Learning   : model selection, metrics, thresholding, business cost
 Data Analytics     : EDA, visualization, insights, dashboards
-Deep Learning      : transformer inference for biological data
+Deep Learning      : transformer inference and domain-specific modelling
 GenAI / RAG        : PDF + URL question answering, retrieval, source-grounded answers
 DSA in C++         : recursion, DFS, backtracking, hashing, two pointers
 ```
