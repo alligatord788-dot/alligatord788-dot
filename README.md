@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/ai-ml-console.svg" width="100%" alt="Animated AI ML console hero" />
+<img src="assets/ai-ml-console-v2.svg" width="100%" alt="Animated AI ML console hero" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2300&pause=650&color=22D3EE&center=true&vCenter=true&width=1000&lines=%3E+Building+machine+learning+systems+that+explain+decisions;%3E+RAG+%2B+LangChain+%2B+dashboards+%2B+applied+analytics;%3E+Credit+risk%2C+churn%2C+financial+AI+and+deep+learning;%3E+I+like+turning+messy+data+into+usable+products)](https://git.io/typing-svg)
 
